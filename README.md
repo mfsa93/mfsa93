@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Sanchez, 
+- 👋 Hi, I’m Michael Sanchez.
 - Senior Software Engineer.
 
 <!---
