@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Sanchez, Senior Software Developer.
+- 👋 Hi, I’m Michael Sanchez, Senior Software Engineer.
 
 <!---
 mfsa93/mfsa93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
